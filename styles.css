@@ -1,1 +1,35 @@
-/* Write your CSS here! */
+body{
+    margin: 8px;
+    display: block;
+}
+
+#mainHeading{
+    color: red;
+}
+
+#sub-header{
+    text-align: center;
+    text-decoration: underline;
+}
+
+#testP{
+    margin-right: 50px;
+    font-size: 1.2em;
+    text-align: left;
+}
+
+.hm-header{
+    text-align: left;
+    font-size: 25px;
+}
+
+.hm-pargh{
+    text-align: left;
+    margin: -275px 200px 250px 260px;
+    padding: auto;
+    font-size: 1em;
+}
+
+.funParagraph{
+    color: green;
+}
